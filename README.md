@@ -13,7 +13,7 @@ Rock breaks scissors
 **[View the live project here.](https://abdulsyed05.github.io/Rock-Paper-Scissors/)**
 
 
-![Rock-Paper-Scissors](assets/readme-images/responsive.png)
+![Rock-Paper-Scissors](assets/resposive.png)
 
 ## Project Goals
 
