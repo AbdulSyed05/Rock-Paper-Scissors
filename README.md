@@ -33,6 +33,24 @@ To cultivate a strong and consistent user base for the Rock, Paper, Scissors gam
 ## User Story:
 As a casual player of the Rock, Paper, Scissors game, I want the game to be more engaging and intuitive by introducing gesture recognition. The game should be able to recognize and respond to the gestures made by the player. This includes recognizing the gestures for "rock," "paper," and "scissors."
 
+### Design
+
+#### Design Choices
+One key design choice for enhancing the user experience in this Rock, Paper, Scissors game in JavaScript is to implement a dynamic AI opponent. This dynamic AI opponent adapts its strategy based on the user's gameplay patterns and skill level.
+
+#### Colour Scheme
+The main colours used are shades of red, yellow, blue, darkgreen, black and white.
+
+#### Typography
+The fonts used for this website are Font family, lato and san-serif.
+
+#### Imagery
+The images used on this websites are from gencraft, pngtree, istock,
+
+### Wireframes
+
+
+
 
 
 
