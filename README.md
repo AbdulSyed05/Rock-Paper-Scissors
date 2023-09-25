@@ -58,6 +58,39 @@ The images used on this websites are from gencraft, pngtree, istock,
 #### Desktop Home Page Wireframe
 
 
+## Technologies used
+
+### Languages used
+
+* HTML
+* CSS
+* JAVASCRIPT
+
+The developer used W3C HTML validation and W3C CSS validation to help debug, and check the validity of the website's code.
+
+
+### Frameworks, Libraries and Programs used
+
+* Bootstrap
+* Goodle fonts 
+* Git; used for version control by utilizing the Gitpod terminal to commit to Git, and push to github
+* Github; used to store the project code in a repository, and to deploy the page
+* Balsamiq; used to create the wireframes during the design process
+
+## Testing
+
+### Validation
+
+* W3C HTML validation
+* W3C CSS validation
+* JSHint 
+
+### Performance
+* Lighthouse from the Google Chrome Developer Tools provided an analysis of the website's performance
+
+
+
+
 
 
 
