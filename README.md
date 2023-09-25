@@ -49,6 +49,13 @@ The images used on this websites are from gencraft, pngtree, istock,
 
 ### Wireframes
 
+#### Mobile Home Page Wireframe
+
+
+#### Tablet Home Page Wireframe
+
+
+#### Desktop Home Page Wireframe
 
 
 
