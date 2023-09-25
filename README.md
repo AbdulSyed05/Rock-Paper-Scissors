@@ -19,5 +19,21 @@ Rock breaks scissors
 
 Develop an interactive and accessible Rock, Paper, Scissors game in JavaScript that provides an engaging gaming experience for users of all ages while promoting skill development, fair play, and user satisfaction
 
+## User Experience (UX)
+
+#### First Time Visitor Goals
+To introduce first-time visitors to the Rock, Paper, Scissors game in JavaScript and provide a seamless, engaging, and informative experience that encourages them to play, learn the rules, and enjoy the game.
+
+#### Returning Visitor Goals
+To provide a memorable and rewarding experience for returning visitors to the Rock, Paper, Scissors game in JavaScript, encouraging them to engage more deeply with the game, explore advanced features, and become regular users.
+
+#### Frequent Visitor Goals
+To cultivate a strong and consistent user base for the Rock, Paper, Scissors game in JavaScript by offering regular engagement, opportunities for mastery, and social interaction.
+
 ## User Story:
 As a casual player of the Rock, Paper, Scissors game, I want the game to be more engaging and intuitive by introducing gesture recognition. The game should be able to recognize and respond to the gestures made by the player. This includes recognizing the gestures for "rock," "paper," and "scissors."
+
+
+
+
+
