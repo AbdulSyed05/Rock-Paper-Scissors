@@ -10,6 +10,22 @@ Scissors cut paper
 Paper covers rock
 Rock breaks scissors
 
+## Rules of Memory Game
+
+1. Each player forms one of three shapes with an outstretched hand:
+   - Rock (a fist)
+   - Paper (an open hand)
+   - Scissors (a fist with the index and middle fingers extended, forming a V)
+
+2. The players count to three in unison and simultaneously throw one of the three shapes.
+
+3. The winner is determined based on a set of rules:
+   - Rock beats Scissors (Rock crushes Scissors)
+   - Scissors beats Paper (Scissors cut Paper)
+   - Paper beats Rock (Paper covers Rock)
+
+If both players choose the same shape, the game is a tie, and they typically play again. RPS is a game of chance, as there is no skill involved in choosing a shape, making it a popular and fair way to make quick decisions or settle disputes. It's also a common game used in various contexts, including as a simple hand game for children or as a playful way to make choices between adults.
+
 **[View the live project here.](https://abdulsyed05.github.io/Rock-Paper-Scissors/)**
 
 
