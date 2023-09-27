@@ -84,11 +84,14 @@ The developer used W3C HTML validation and W3C CSS validation to help debug, and
 * W3C HTML validation
 * W3C CSS validation
 * JSHint 
+![Screenshot of full performance report from w3c HTML validator.](./Assets/w3html.png)
+
+![Screenshot of full performance report from w3c Css validator.](./Assets/w3c.css%20validator.png)
+
 
 ### Performance
 * Lighthouse from the Google Chrome Developer Tools provided an analysis of the website's performance
-
-
+![Screenshot of full performance report from Google Chrome Developer Tool Lighthouse.](./Assets/lighthouse.png) 
 
 
 
