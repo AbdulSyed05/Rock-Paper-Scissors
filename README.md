@@ -13,7 +13,7 @@ Rock breaks scissors
 **[View the live project here.](https://abdulsyed05.github.io/Rock-Paper-Scissors/)**
 
 
-![Rock-Paper-Scissors](Assets/resposive.png)
+![Rock-Paper-Scissors](Assets/mobilewireframe.png)
 
 ## Project Goals
 
@@ -50,7 +50,7 @@ The images used on this websites are from gencraft, pngtree, istock,
 ### Wireframes
 
 #### Mobile Home Page Wireframe 
-(Assets/mobilewireframe.png)
+![mobilewireframe](Assets/mobilewireframe.png)
 
 #### Tablet Home Page Wireframe
 
