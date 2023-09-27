@@ -63,6 +63,10 @@ The fonts used for this website are Font family, lato and san-serif.
 #### Imagery
 The images used on this websites are from gencraft, pngtree, istock,
 
+####
+![color palettes](assets/images/color-palet.png)
+![color palettes](assets/images/color-palett.png)
+
 ### Wireframes
 
 #### Mobile Home Page Wireframe
@@ -154,7 +158,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 #### Acknowledgements
 
-    * I owe my mentor Aleksei Konovalov a lot of credit for great mentoring.
+    * I owe my mentor Aleksei Konovalov a lot of credit for great mentoring. and the discovery of the cooolor.com for color palettes.
     * I owe the Slack community a great deal of credit also for their responsiveness and willingness to always help with small problems!
 
 
