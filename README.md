@@ -50,13 +50,15 @@ The images used on this websites are from gencraft, pngtree, istock,
 ### Wireframes
 
 #### Mobile Home Page Wireframe
+![Mobile Home Page Wireframe](./Assets/mobile%20wireframe.png)
+
 
 
 #### Tablet Home Page Wireframe
-
+![Tablet Home Page Wireframe](./Assets/Tablet%20wireframe.png)
 
 #### Desktop Home Page Wireframe
-
+![Desktop Home Page Wireframe](./Assets/Desktop%20wireframe.png)
 
 ## Technologies used
 
