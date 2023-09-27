@@ -110,7 +110,52 @@ The developer used W3C HTML validation and W3C CSS validation to help debug, and
 ![Screenshot of full performance report from Google Chrome Developer Tool Lighthouse.](./Assets/lighthouse.png) 
 
 
+### Bugs Discovered & Resolved
 
+## Deployment
+
+This project was developed using GitPod, committed to Git and pushed to GitHub using the built-in function within GitPod
+
+### Deploy this project from its GitHub repository
+
+To deploy this project to GitHub Pages from its [GitHub repository](https://abdulsyed05.github.io/Rock-Paper-Scissors/), the following steps were taken:
+
+1. Log into GitHub.
+2. From the list of repositories, select **AbdulSyed05/milestoneproject2**
+3. From the menu items near the top of the page, select **Settings**.
+4. Scroll down to **GitHub Pages** section.
+5. Under **Source** click the dropdown menu labelled **None** and select **Master Branch**
+6. On selecting Master Branch, the page is automatically refreshed. The website is now deployed.
+7. Scroll back down to **GitHub Pages** section to retrieve the link to the deployed website.
+
+### How to run this project locally
+
+To clone this project from GitHub
+
+1. Follow this link to the [Project GitHub repository](https://abdulsyed05.github.io/Rock-Paper-Scissors/)
+2. Under the repository name, click "Clone or download".
+3. In the Clone with HTTPS section, copy the clone URL for the repository.
+4. In your local IDE open Git Bash.
+5. Change the current working directory to the location you want the cloned directory to be made.
+6. Type ` git clone ` and then press the URL you copied in Step 3
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+#### Acknowledgements
+
+    * I owe my mentor Aleksei Konovalov a lot of credit for great mentoring.
+    * I owe the Slack community a great deal of credit also for their responsiveness and willingness to always help with small problems!
 
 
 
