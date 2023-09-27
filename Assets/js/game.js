@@ -47,8 +47,8 @@ const game = () => {
   
           setTimeout(() => {
             compareHands(this.textContent, computerChoice);
-            playerHand.src = `./Assets/${this.textContent}.png`;
-            computerHand.src = `./Assets/${computerChoice}.png`;
+            playerHand.src = `assets/images/${this.textContent}.png`;
+            computerHand.src = `assets/images/${computerChoice}.png`;
           }, 2000);
           playerHand.style.animation = "shakePlayer 2s ease";
           computerHand.style.animation = "shakeComputer 2s ease";
@@ -198,8 +198,8 @@ setTimeout(() => {
       
       const playerHand = document.querySelector(".player-hand");
       const computerHand = document.querySelector(".computer-hand");
-      playerHand.src = "./assets/rock.png"; 
-      computerHand.src = "./assets/rock.png";
+      playerHand.src = "assets/images/rock.png"; 
+      computerHand.src = "assets/images/rock.png";
       const options = document.querySelectorAll(".options button");
       options.forEach((option) => {
         option.disabled = false;

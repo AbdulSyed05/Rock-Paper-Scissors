@@ -29,7 +29,7 @@ If both players choose the same shape, the game is a tie, and they typically pla
 **[View the live project here.](https://abdulsyed05.github.io/Rock-Paper-Scissors/)**
 
 
-![Rock-Paper-Scissors](./Assets/resposive.png)
+![Rock-Paper-Scissors](assets/images/resposive.png)
 
 ## Project Goals
 
@@ -66,13 +66,13 @@ The images used on this websites are from gencraft, pngtree, istock,
 ### Wireframes
 
 #### Mobile Home Page Wireframe
-![Mobile Home Page Wireframe](./Assets/mobilewireframe.png)
+![Mobile Home Page Wireframe](assets/images/mobile-wireframe.png)
 
 #### Tablet Home Page Wireframe
-![Tablet Home Page Wireframe](./Assets/Tablet%20wireframe.png)
+![Tablet Home Page Wireframe](assets/images/tablet-wireframe.png)
 
 #### Desktop Home Page Wireframe
-![Desktop Home Page Wireframe](./Assets/Desktop%20wireframe.png)
+![Desktop Home Page Wireframe](assets/images/desktop-wireframe.png)
 
 ## Technologies used
 
@@ -100,14 +100,14 @@ The developer used W3C HTML validation and W3C CSS validation to help debug, and
 * W3C HTML validation
 * W3C CSS validation
 * JSHint 
-![Screenshot of full performance report from w3c HTML validator.](./Assets/w3html.png)
+![Screenshot of full performance report from w3c HTML validator.](assets/images/w3html.png)
 
-![Screenshot of full performance report from w3c Css validator.](./Assets/w3c.css%20validator.png)
+![Screenshot of full performance report from w3c Css validator.](assets/images/w3c.css-validator.png)
 
 
 ### Performance
 * Lighthouse from the Google Chrome Developer Tools provided an analysis of the website's performance
-![Screenshot of full performance report from Google Chrome Developer Tool Lighthouse.](./Assets/lighthouse.png) 
+![Screenshot of full performance report from Google Chrome Developer Tool Lighthouse.](assets/images/lighthouse.png) 
 
 
 ### Bugs Discovered & Resolved
