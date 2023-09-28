@@ -111,7 +111,7 @@ The developer used W3C HTML validation and W3C CSS validation to help debug, and
 
 ### Performance
 * Lighthouse from the Google Chrome Developer Tools provided an analysis of the website's performance
-![Screenshot of full performance report from Google Chrome Developer Tool Lighthouse.](assets/images/lighthouse.png) 
+![Screenshot of full performance report from Google Chrome Developer Tool Lighthouse.](assets/images/lighthouse-report.png) 
 
 
 ### Bugs Discovered & Resolved
