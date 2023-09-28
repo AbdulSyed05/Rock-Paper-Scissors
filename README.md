@@ -67,6 +67,13 @@ The images used on this websites are from gencraft, pngtree, istock,
 ![color palettes](assets/images/color-palet.png)
 ![color palettes](assets/images/color-palett.png)
 
+#### Game Images
+![Game images screenshots](assets/images/rock-paper-scissors.png)
+![Game images screenshots](assets/images/game-image1.png)
+![Game images screenshots](assets/images/game-image2.png)
+![Game images screenshots](assets/images/game-image3.png)
+
+
 ### Wireframes
 
 #### Mobile Home Page Wireframe
