@@ -68,7 +68,7 @@ The images used on this websites are from gencraft, pngtree, istock,
 ![color palettes](assets/images/color-palett.png)
 
 #### Features
-At the home, there is logo of 2 fist stating it is a Rock-Paper-Scissors game.
+At the home page, there is logo of 2 fist stating it is a Rock-Paper-Scissors game.
 
 ![Game images screenshots](assets/images/rock-paper-scissors.png)
 
