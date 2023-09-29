@@ -10,6 +10,11 @@ Scissors cut paper
 Paper covers rock
 Rock breaks scissors
 
+**[View the live project here.](https://abdulsyed05.github.io/Rock-Paper-Scissors/)**
+
+![Rock-Paper-Scissors](assets/images/resposive.png)
+
+
 ## Rules of Memory Game
 
 1. Each player forms one of three shapes with an outstretched hand:
@@ -26,10 +31,7 @@ Rock breaks scissors
 
 If both players choose the same shape, the game is a tie, and they typically play again. RPS is a game of chance, as there is no skill involved in choosing a shape, making it a popular and fair way to make quick decisions or settle disputes. It's also a common game used in various contexts, including as a simple hand game for children or as a playful way to make choices between adults.
 
-**[View the live project here.](https://abdulsyed05.github.io/Rock-Paper-Scissors/)**
 
-
-![Rock-Paper-Scissors](assets/images/resposive.png)
 
 ## Project Goals
 
