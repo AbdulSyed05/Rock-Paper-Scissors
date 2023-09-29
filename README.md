@@ -63,7 +63,6 @@ The main colours used are shades of red, yellow, blue, darkgreen, black and whit
 
 ![color palettes](assets/images/color-palet.png)
 ![color palettes](assets/images/color-palett.png)Colour Scheme
-The main colours used are shades of red, yellow, blue, darkgreen, black and white.
 
 #### Typography
 The fonts used for this website are lato and sans-serif.
