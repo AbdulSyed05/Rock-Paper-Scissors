@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 
-## Milestone Project 2
+## Portfolio Project 2
 
 Rock, Paper, Scissors" is a simple hand game that is often used as a decision-making tool or a quick and fun game between two people. The game is typically played with the hands in a count of three, and each player simultaneously forms one of three shapes with their hand.
 
