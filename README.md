@@ -54,7 +54,15 @@ As a casual player of the Rock, Paper, Scissors game, I want the game to be more
 #### Design Choices
 One key design choice for enhancing the user experience in this Rock, Paper, Scissors game in JavaScript is to implement a dynamic AI opponent. This dynamic AI opponent adapts its strategy based on the user's gameplay patterns and skill level.
 
-#### Colour Scheme
+
+#### Imagery & Color scheme
+
+The images used on this websites are from gencraft, pngtree, istock,
+
+The main colours used are shades of red, yellow, blue, darkgreen, black and white.
+
+![color palettes](assets/images/color-palet.png)
+![color palettes](assets/images/color-palett.png)Colour Scheme
 The main colours used are shades of red, yellow, blue, darkgreen, black and white.
 
 #### Typography
