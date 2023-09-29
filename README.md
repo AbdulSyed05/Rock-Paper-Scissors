@@ -62,7 +62,7 @@ The images used on this websites are from gencraft, pngtree, istock,
 The main colours used are shades of red, yellow, blue, darkgreen, black and white.
 
 ![color palettes](assets/images/color-palet.png)
-![color palettes](assets/images/color-palett.png)Colour Scheme
+![color palettes](assets/images/color-palett.png)
 
 #### Typography
 The fonts used for this website are lato and sans-serif.
