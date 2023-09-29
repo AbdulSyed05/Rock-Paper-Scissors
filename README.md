@@ -35,8 +35,6 @@ If both players choose the same shape, the game is a tie, and they typically pla
 
 Develop an interactive and accessible Rock, Paper, Scissors game in JavaScript that provides an engaging gaming experience for users of all ages while promoting skill development, fair play, and user satisfaction
 
-## User Experience (UX)
-
 #### First Time Visitor Goals
 To introduce first-time visitors to the Rock, Paper, Scissors game in JavaScript and provide a seamless, engaging, and informative experience that encourages them to play, learn the rules, and enjoy the game.
 
@@ -58,7 +56,7 @@ One key design choice for enhancing the user experience in this Rock, Paper, Sci
 The main colours used are shades of red, yellow, blue, darkgreen, black and white.
 
 #### Typography
-The fonts used for this website are Font family, lato and san-serif.
+The fonts used for this website are lato and sans-serif.
 
 #### Imagery
 The images used on this websites are from gencraft, pngtree, istock,
@@ -67,7 +65,7 @@ The images used on this websites are from gencraft, pngtree, istock,
 ![color palettes](assets/images/color-palet.png)
 ![color palettes](assets/images/color-palett.png)
 
-#### Game Images
+#### Features
 ![Game images screenshots](assets/images/rock-paper-scissors.png)
 ![Game images screenshots](assets/images/game-image1.png)
 ![Game images screenshots](assets/images/game-image2.png)
@@ -99,7 +97,7 @@ The developer used W3C HTML validation and W3C CSS validation to help debug, and
 ### Frameworks, Libraries and Programs used
 
 * Bootstrap
-* Goodle fonts 
+* Google fonts 
 * Git; used for version control by utilizing the Gitpod terminal to commit to Git, and push to github
 * Github; used to store the project code in a repository, and to deploy the page
 * Balsamiq; used to create the wireframes during the design process
@@ -166,8 +164,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 #### Acknowledgements
 
-    * I owe my mentor Aleksei Konovalov a lot of credit for great mentoring. and the discovery of the cooolor.com for color palettes.
-    * I owe the Slack community a great deal of credit also for their responsiveness and willingness to always help with small problems!
+     I owe my mentor Aleksei Konovalov a lot of credit for great mentoring. and the discovery of the cooolor.com for color palettes.
+     I owe the Slack community a great deal of credit also for their responsiveness and willingness to always help with small problems!
 
 
 
