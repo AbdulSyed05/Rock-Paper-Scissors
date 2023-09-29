@@ -68,9 +68,17 @@ The images used on this websites are from gencraft, pngtree, istock,
 ![color palettes](assets/images/color-palett.png)
 
 #### Features
+At the home screen of the game there is logo of 2 fist stating it is a Rock-Paper-Scissors game.
+
 ![Game images screenshots](assets/images/rock-paper-scissors.png)
+
+The second screen, show the lets play icon.
 ![Game images screenshots](assets/images/game-image1.png)
+
+This is the screen, the user see the choose option and the fist icon.
 ![Game images screenshots](assets/images/game-image2.png)
+
+This is the screen, the user see the results and fight again icon.
 ![Game images screenshots](assets/images/game-image3.png)
 
 
