@@ -7,7 +7,7 @@ let pScore = 0;
 
     const popup = document.querySelector(".popup");
     const closePopupButton = document.getElementById("close-popup");
-    const winnerTextValue = document.getElementById("winnerValue")
+    const winnerTextValue = document.getElementById("winnerValue");
 
 const game = () => {
 
@@ -75,19 +75,19 @@ setTimeout(() => {
       winnerTextValue.textContent = "Player Wins";
     }
     else if(pScore < cScore) {
-      winnerTextValue.textContent = "Computer Wins"
+      winnerTextValue.textContent = "Computer Wins";
     }
     else if(pScore === cScore) {
-      winnerTextValue.textContent = "It is a Tie"
+      winnerTextValue.textContent = "It is a Tie";
     }
     else {
-      winnerTextValue.textContent = ""
+      winnerTextValue.textContent = "";
     }
     popup.style.display = "block";
   }
   // updateScore()
 
-},2000)
+},2000);
     };
     
     closePopupButton.addEventListener("click", () => {

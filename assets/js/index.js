@@ -1,7 +1,7 @@
 /*jshint esversion: 6 */ 
 
-const nameInput = document.getElementById("exampleInputEmail1")
-console.log(nameInput.value)
+const nameInput = document.getElementById("exampleInputEmail1");
+console.log(nameInput.value);
 function App() {
     var container = document.getElementById('container');
     
@@ -50,7 +50,7 @@ function App() {
           iterations: Infinity
         };
       elem.animate(keyframes, options);
-    };
+    }
     
     
     animate(circle, 'left', 12, 5, 36000);
