@@ -155,7 +155,7 @@ This project was developed using GitPod, committed to Git and pushed to GitHub u
 To deploy this project to GitHub Pages from its [GitHub repository](https://abdulsyed05.github.io/Rock-Paper-Scissors/), the following steps were taken:
 
 1. Log into GitHub.
-2. From the list of repositories, select **AbdulSyed05/milestoneproject2**
+2. From the list of repositories, select **AbdulSyed05/Portfolio Project2**
 3. From the menu items near the top of the page, select **Settings**.
 4. Scroll down to **GitHub Pages** section.
 5. Under **Source** click the dropdown menu labelled **None** and select **Master Branch**
