@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */ 
+
 let pScore = 0;
     let cScore = 0;
     let roundsLeft = 5;
@@ -132,7 +134,7 @@ setTimeout(() => {
       updateScore();
           });
           
-        },2100)
+        },2100);
       }
     };
   
@@ -226,8 +228,8 @@ setTimeout(() => {
 
       if(pScore > cScore && roundsLeft === 0) {
   
-        confettiCanvas.classList.remove('confetti-head')
-        confettiCanvas.classList.add('confetti-block')
+        confettiCanvas.classList.remove('confetti-head');
+        confettiCanvas.classList.add('confetti-block');
       }
     
   };

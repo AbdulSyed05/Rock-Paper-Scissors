@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */ 
+
 const nameInput = document.getElementById("exampleInputEmail1")
 console.log(nameInput.value)
 function App() {
