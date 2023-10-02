@@ -129,6 +129,15 @@ The developer used W3C HTML validation and W3C CSS validation to help debug, and
 * Lighthouse from the Google Chrome Developer Tools provided an analysis of the website's performance
 ![Screenshot of full performance report from Google Chrome Developer Tool Lighthouse.](assets/images/lighthouse-report.png) 
 
+### Responsiveness
+The website is responsive to all devices within the ranges specified below.
+
+* Pixel width : 320 - 400px
+* Pixel width : 401 - 550px
+* Pixel width : 551 - 800px
+* Pixel width : 801 - 900px
+* Pixel width : 900px and above
+
 
 ### Bugs Discovered & Resolved
 
