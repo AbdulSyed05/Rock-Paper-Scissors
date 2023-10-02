@@ -123,7 +123,10 @@ The developer used W3C HTML validation and W3C CSS validation to help debug, and
 
 ![Screenshot of full performance report from w3c Css validator.](assets/images/w3c.css-validator.png)
 
-![Screenshot of full performance report from ESLint.](assets/images/eslint-report.png)
+![Screenshot of full performance report from jshint.](assets/images/jshint-gamejs.png)
+
+![Screenshot of full performance report from jshint.](assets/images/jshint-indexjs.png)
+
 
 ### Performance
 * Lighthouse from the Google Chrome Developer Tools provided an analysis of the website's performance
@@ -140,6 +143,8 @@ The website is responsive to all devices within the ranges specified below.
 
 
 ### Bugs Discovered & Resolved
+Jshint was showing warning for missing semicolons fixed it. 
+No other major warnings, please see screenshot attached. 
 
 ## Deployment
 
