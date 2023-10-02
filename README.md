@@ -97,9 +97,9 @@ This is the screen, the user see the results and fight again icon.
 
 ### Languages used
 
-* (https://en.wikipedia.org/wiki/HTML)*
-* (https://en.wikipedia.org/wiki/CSS)*
-* (https://en.wikipedia.org/wiki/JavaScript)*
+* [view the link of HTML](https://en.wikipedia.org/wiki/HTML)*
+* [view the link of CSS](https://en.wikipedia.org/wiki/CSS)*
+* [view the link of JAVASCRIPT](https://en.wikipedia.org/wiki/JavaScript)*
 
 The developer used W3C HTML validation and W3C CSS validation to help debug, and check the validity of the website's code.
 
