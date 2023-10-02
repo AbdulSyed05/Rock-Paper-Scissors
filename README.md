@@ -144,7 +144,7 @@ The website is responsive to all devices within the ranges specified below.
 
 ### Bugs Discovered & Resolved
 Jshint was showing warning for missing semicolons fixed it. 
-No other major warnings, please see screenshot attached. 
+No other major warnings, please see screenshot attached above in validation section. 
 
 ## Deployment
 
