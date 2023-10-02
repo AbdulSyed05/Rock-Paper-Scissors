@@ -37,6 +37,9 @@ const game = () => {
   
       options.forEach(option => {
         option.addEventListener("click", function() {
+          options.forEach(option => {
+            option.disabled = true;
+          });
           if (roundsLeft > 0) {
             if (this.classList.contains("rock") || this.classList.contains("paper") || this.classList.contains("scissors")) {
               roundsLeft--;
@@ -51,6 +54,9 @@ const game = () => {
             compareHands(this.textContent, computerChoice);
             playerHand.src = `assets/images/${this.textContent}.png`;
             computerHand.src = `assets/images/${computerChoice}.png`;
+            options.forEach(option => {
+              option.disabled = false;
+            });
           }, 2000);
           playerHand.style.animation = "shakePlayer 2s ease";
           computerHand.style.animation = "shakeComputer 2s ease";
@@ -236,6 +242,3 @@ setTimeout(() => {
   
   //start the game function
   game();
-
-
-

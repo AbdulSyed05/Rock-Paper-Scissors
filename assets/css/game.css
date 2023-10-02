@@ -1,3 +1,17 @@
+/* CSS VARIABLES */
+:root {
+  --stripe1: #E7EFF8;
+  --stripe2: #DAE8F3;
+
+  --blue: #7996B3;
+  --green: #759F87;
+  --pink: #D18794;
+  --purple: #9586AC;
+  --yellow: #EFC16D;
+}
+
+
+/* STANDARD RESETS */
 * {
   margin: 0;
   padding: 0;
@@ -210,6 +224,12 @@ div.fadeIn {
   z-index: 1300 !important;
 }
 
+.new-button[disabled] {
+  background-color: #c14a4a !important;
+  color: #ffffff !important;
+  cursor: not-allowed;
+}
+
 .popup {
   display: none;
   left: 17%;
@@ -277,15 +297,12 @@ h3 {
   cursor: pointer;
 }
 
-:root {
-  --stripe1: #E7EFF8;
-  --stripe2: #DAE8F3;
+.refresh i {
+  transition: all 0.2s ease-in-out;
+}
 
-  --blue: #7996B3;
-  --green: #759F87;
-  --pink: #D18794;
-  --purple: #9586AC;
-  --yellow: #EFC16D;
+.refresh i:hover {
+  transform: rotate(540deg);
 }
 
 .container {
@@ -631,6 +648,10 @@ h3 {
     width: 240px;
     left: 6%;
     z-index: 1300;
+  }
+
+  .winnerNew {
+    font-size: 200%;
   }
 
   /* .score, .intro, .match {
